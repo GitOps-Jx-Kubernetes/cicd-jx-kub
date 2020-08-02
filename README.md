@@ -1,4 +1,4 @@
-# cicd-jx-kub
+# Continous Integration and Delivery with JenkinsX and Kubernetes
 > Use git changes to manage kubernetes configurations
 
 <p>
